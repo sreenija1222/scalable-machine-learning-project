@@ -28,7 +28,7 @@ Input fields contain
 - **Energy** (derived from `fatigue`, inverted so “higher = more energy”)
 
 We frame the final targets as **3 classes**:
-- `0 = Low`, `1 = Medium`, `2 = High`
+- `1 = Low`, `2 = Medium`, `3 = High`
 
 ### Two model “routes” (to match real user behavior)
 To support both “minimal logging” users and “more engaged” users, we train two variants:
