@@ -1,4 +1,4 @@
-#ID2223-Scalable machine leanringand Deep leanring models project
+# ID2223-Scalable machine leanringand Deep leanring models project
 # Wellbeing Explorer — Daily Mood & Energy Prediction (mcPHASES)
 
 A small end-to-end ML system that predicts **daily mood** and **daily energy** from menstrual-cycle and wellbeing signals, and presents the results in an interactive dashboard.
